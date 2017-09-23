@@ -5,5 +5,8 @@ import (
 )
 
 func main(){
-	fmt.Printf("Good Afternoonnnnnnsdfsfsdfasfsaf\n")
+	fmt.Printf("Good Morning\n")
+	fmt.Printf("Good Afternoon\n")
+	fmt.Printf("Good Evening\n")
+
 }
